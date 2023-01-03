@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "message": "nothing.",
+  "result": {
+    "website_url": "https://cloudflare.com",
+    "enable_zoom": false,
+    "in_app_progress": false,
+    "app_load_timeout": 1000,
+    "version_details": {
+      "update_show_status": "enable",
+      "force_update_enabled": "false",
+      "latest_version": "1.012",
+      "update_title": "تایتل اپدیت اینجا میاد",
+      "update_details": "متن اپدیت اینجا میاد و میتونه بزرگ باشه تا این حد یا بیشتر و کش میاد اگه زیاد باشه",
+      "update_size": "5",
+      "update_button_event_url": "https://google.com"
+    }
+  }
+}
